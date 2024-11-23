@@ -1,0 +1,9 @@
+.background-burger {
+	width: 100vw;
+	height: 90vh;
+}
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
